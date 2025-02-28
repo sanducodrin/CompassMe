@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Stil personalizat pentru TextInputLayout -->
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxBackgroundColor">@color/grey</item>
+        <item name="hintTextColor">@color/text</item>
+        <item name="boxCornerRadiusTopStart">20dp</item>
+        <item name="boxCornerRadiusTopEnd">20dp</item>
+        <item name="boxCornerRadiusBottomStart">20dp</item>
+        <item name="boxCornerRadiusBottomEnd">20dp</item>
+    </style>
+
+    <!-- Stil personalizat pentru TextInputEditText pentru Email -->
+    <style name="CustomTextInputEditTextEmail" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:textColorHint">@color/text</item>
+        <item name="android:fontFamily">@font/poppins_light</item>
+        <item name="android:inputType">textEmailAddress</item>
+    </style>
+
+    <!-- Stil personalizat pentru TextInputEditText pentru Parola -->
+    <style name="CustomTextInputEditTextPassword" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="android:textColorHint">@color/text</item>
+        <item name="android:fontFamily">@font/poppins_light</item>
+        <item name="android:inputType">textPassword</item>
+    </style>
+
+    <!-- Stil personalizat pentru MaterialButton -->
+    <style name="CustomMaterialButton" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">10dp</item>
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:text">Logare</item>
+        <item name="android:fontFamily">@font/poppins_bold</item>
+    </style>
+</resources>
