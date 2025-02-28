@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.example.compassme.app-debug-31:/layout_activity_company.xml.flat",
+        "source": "com.example.compassme.app-main-33:/layout/activity_company.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_check.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\check.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\font_aileron_regular.otf.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\font\\aileron_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_add.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_account_box.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\account_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_arrow_down.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_logo_background.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\logo_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_linkedin.png.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_search.png.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\font_poppins_light.ttf.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\font\\poppins_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_back_arrow.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\font_dm_sans.ttf.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\font\\dm_sans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.compassme.app-debug-31:/layout_activity_new_account.xml.flat",
+        "source": "com.example.compassme.app-main-33:/layout/activity_new_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.compassme.app-debug-31:/layout_activity_candidate.xml.flat",
+        "source": "com.example.compassme.app-main-33:/layout/activity_candidate.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\font_aileron_semi_bold.otf.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\font\\aileron_semi_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_arrow_up.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\arrow_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_bg_new_account.png.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\bg_new_account.png"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "com.example.compassme.app-debug-31:/layout_activity_change_password.xml.flat",
+        "source": "com.example.compassme.app-main-33:/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_bg_login.png.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\bg_login.png"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_google.png.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_filter.xml.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\drawable_briefcase.png.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\drawable\\briefcase.png"
+    },
+    {
+        "merged": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-debug-31:\\font_aileron_bold.otf.flat",
+        "source": "C:\\Users\\sandu\\.gradle\\daemon\\8.4\\com.example.compassme.app-main-33:\\font\\aileron_bold.otf"
+    }
+]
